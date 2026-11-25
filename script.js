@@ -1,7 +1,7 @@
 //your JS code here. If required.
 let block_Id=document.getElementById("block_id")
 let color_Id=document.getElementById("color_id")
-let changeButton=document.getElementById("change button")
+let changeButton=document.getElementById("changeButton")
 let resetBtn=document.getElementById("reset")
 
 let  blocks=document.querySelectorAll(".grid-items")
