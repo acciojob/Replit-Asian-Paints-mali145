@@ -1,13 +1,13 @@
 /*  your css code here. If applicable */
 #grid-container{
 	display:grid;
-	grid_Template-colunms: repeat(3, 100px){
+	grid_Template-colunms: repeat(3, 100px);
 
 	gap:10px;
 	margin-botttom:20px;
 	
 	
-	}
+	
 	.grid-item{
     width:100px;
 	height:100px;
