@@ -1,10 +1,10 @@
 //your JS code here. If required.
 let block_Id=document.getElementById("block_id")
 let color_Id=document.getElementById("color_id")
-let changeButton=document.getElementById("changeButton")
+let changeButton=document.getElementById("change_button")
 let resetBtn=document.getElementById("reset")
 
-let  blocks=document.querySelectorAll(".grid-items")
+let  blocks=document.querySelectorAll(".grid-item")
 
 
 changeButton.addEventListener("click" ,(e)=>{
